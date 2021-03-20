@@ -28,7 +28,7 @@ The installer was made with : Microsoft Visual Studio Installer Projects
 
 ## Install 
 
-An installer is embedded in this repo [here](https://github.com/raubee/Wild-West-City/blob/main/Wild%20West%20City.msi)
+An installer is embedded in this repo [here](https://github.com/raubee/Wild-West-City/releases/download/1.0/Wild.West.City.msi)
 
 ## Development
 
