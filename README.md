@@ -1,4 +1,4 @@
-# Wild-West-City
+# Wild West City
 first video game project - Feeling nostalgic 👴 Remember boyz? the good old days! </br>
 
 It was made in 2009 for my technical degree. </br>
