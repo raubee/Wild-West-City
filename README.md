@@ -21,14 +21,14 @@ Optionally, you can activate full screen support to take advantage of these amaz
 Using : 
 - C/C++ and OpenGL 2.0
 - [Newton Game Dynamics](https://github.com/MADEAPPS/newton-dynamics) for incredible physics works - included in this repo
-- Old Qt 4.6.0 for Window and keyboard/Mouse events
+- Old [Qt 4.6.0](https://download.qt.io/archive/qt/4.6/) for Window and keyboard/Mouse events
 - 3DS Loader from DigiBen - gametutorials.com ( no link found sorry )
 
 The installer was made with : Microsoft Visual Studio Installer Projects
 
 ## Install 
 
-An installer is embedded in this repo [here]()
+An installer is embedded in this repo [here](https://github.com/raubee/Wild-West-City/blob/main/Wild%20West%20City.msi)
 
 ## Development
 
