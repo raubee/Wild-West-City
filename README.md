@@ -2,15 +2,15 @@
 first video game project - Feeling nostalgic 👴 Remember boyz? the good old days! </br>
 
 It was made in 2009 for my technical degree. </br>
-It was all about discovering OpenGL, integrating 3D textured models, adding a physics library and basic gameplay mechanics in C++ project from scratch. </br> 
-Not cheating here 💪 No Irrlicht engine and of course no Unity, no Unreal Engine
+It was all about discovering OpenGL, integrating 3D textured models, adding a physics library and basic gameplay mechanics in a C++ project from scratch. </br> 
+No cheating here 💪 No Irrlicht engine and of course no Unity, no Unreal Engine
 
 ## History
 In this game you will incarn "Billy" the cowboy. He is disabled but he is vailant! </br>
-Why is he disabled? Officially because he fell one day down his horse, Informally because developers were too unexperienced to implement SkinnedMeshes and create biped animations. 
+Why is he disabled? Officially because he fell one day off his horse but informally because developers were too unexperienced to implement SkinnedMeshes and create biped animations. 
 
 Billy will have to take care of his lovely town by doing some tasks:
-- Fighting alcoolism in this Wild west city. By breaking bottles of beer hidden on the map
+- Fighting alcoolism in this Wild west city by breaking bottles of beer hidden on the map
 - Park cows to the cattle pen using a horrible inertia
 - and many more... ( what a teaser! )
 
@@ -39,13 +39,13 @@ The default path to Qt is : *C:\Qt\4.6.0*
 Build was tested on Visual studio 2019 and All is fine.  
 After building, simply copy Qt dlls in Debug | Release folder
 
-Currently the projet version is 1.0 and there is no more update on roadmap 🙃
+Currently the projet version is 1.0 and there is no more updates planned on the roadmap 🙃
 Maybe a vulkan adaptation one day...
 
 Developers: <br> 
-We were 4 people on this project. 
+We were 4 people working on this project. 
  - 2 developpers, Loïc and I
- - full artist Ouirich
+ - one full artist, Ouirich
  - one half artist and integrator, Vincent
 
 We were unskilled but we were passionated </br>
