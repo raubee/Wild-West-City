@@ -1,5 +1,5 @@
 # Wild West City
-My First video game project - Feeling nostalgic 👴 Remember boyz? the good old days! </br>
+My first video game project - Feeling nostalgic 👴 Remember boyz? the good old days! </br>
 
 It was made in 2009 for my technical degree. </br>
 It was all about discovering OpenGL, integrating 3D textured models, adding a physics library and basic gameplay mechanics in a C++ project from scratch. </br> 
